@@ -8,8 +8,8 @@ const config = {
     serverInfo: {
         serverLogoImageFileName: "logo.png", /*This is a file name for logo in /images/ (If you upload new logo with other name, you must change this value)*/
         serverName: "NothingFeel", /*Server name*/
-        serverIp: "donutsmp.net", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
-        discordServerID: "1083741143667310662" /*Your server ID (if you want to add online user counter, you must have enabled Discord server widget)*/
+        serverIp: "mc.hypixel.net", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
+        discordServerID: "10000000000000" /*Your server ID (if you want to add online user counter, you must have enabled Discord server widget)*/
     },
 
     /*Admin-Team
